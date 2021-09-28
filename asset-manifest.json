@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-rechart-intro/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-rechart-intro/static/js/main.7be5a9f8.chunk.js",
+    "main.js.map": "/react-rechart-intro/static/js/main.7be5a9f8.chunk.js.map",
+    "runtime-main.js": "/react-rechart-intro/static/js/runtime-main.1a10b46e.js",
+    "runtime-main.js.map": "/react-rechart-intro/static/js/runtime-main.1a10b46e.js.map",
+    "static/js/2.551df4ca.chunk.js": "/react-rechart-intro/static/js/2.551df4ca.chunk.js",
+    "static/js/2.551df4ca.chunk.js.map": "/react-rechart-intro/static/js/2.551df4ca.chunk.js.map",
+    "static/js/3.f1ba637d.chunk.js": "/react-rechart-intro/static/js/3.f1ba637d.chunk.js",
+    "static/js/3.f1ba637d.chunk.js.map": "/react-rechart-intro/static/js/3.f1ba637d.chunk.js.map",
+    "index.html": "/react-rechart-intro/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-rechart-intro/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.551df4ca.chunk.js.LICENSE.txt": "/react-rechart-intro/static/js/2.551df4ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a10b46e.js",
+    "static/js/2.551df4ca.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.7be5a9f8.chunk.js"
+  ]
+}
